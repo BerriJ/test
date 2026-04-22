@@ -1,6 +1,6 @@
 # Section 1
 
-Some Content
+Some advanced content in section 1
 
 # Section 2 
 
