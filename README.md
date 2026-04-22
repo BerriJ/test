@@ -8,4 +8,4 @@ Some content
 
 # Section 3
 
-totally different content
+totally content
