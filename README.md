@@ -4,7 +4,7 @@ Some Content
 
 # Section 2 
 
-Some other content
+Some content
 
 # Section 3
 
